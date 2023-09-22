@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently studying at software and knowledge engineering at Kasetsart University
+- 🌱 I’m Fresh graduate software and knowledge engineering from Kasetsart University
 ### Language
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
